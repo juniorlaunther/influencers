@@ -1,0 +1,8 @@
+{
+  "name": "O Segredo dos Influencers - AULA AO VIVO",
+  "description": "Aula ao vivo sobre posicionamento, criação de conteúdo, crescimento e oportunidades no mercado de influência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
