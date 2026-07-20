@@ -24,7 +24,7 @@ import {
 
 const EVENT_CONFIG = {
   title: "O Segredo dos Influencers",
-  date: "2026-07-16T20:00:00-03:00",
+  date: "2026-07-30T20:00:00-03:00",
   price: 50,
   checkoutUrl: "https://pay.cakto.com.br/qjjgezg_974628",
   replayAvailable: false,
@@ -235,7 +235,7 @@ export default function App() {
         <p className="font-display text-xs sm:text-sm font-semibold tracking-widest uppercase">
           <span className="block sm:inline">{EVENT_CONFIG.title}</span>
           <span className="hidden sm:inline"> • </span>
-          <span className="block sm:inline">AULA AO VIVO • 16 DE JULHO • 20H</span>
+          <span className="block sm:inline">AULA AO VIVO • 30 DE JULHO • 20H</span>
         </p>
       </div>
 
@@ -748,13 +748,13 @@ export default function App() {
               <span className="text-gradient">É SABER O QUE CRIAR, COMO SE POSICIONAR E O QUE FAZER QUANDO AS PESSOAS COMEÇAREM A PRESTAR ATENÇÃO EM VOCÊ.</span>
             </h2>
             <p className="text-[1.1rem] md:text-xl text-zinc-400 font-light mb-10 md:mb-12 max-w-2xl mx-auto">
-              No dia 16 de julho, Junior Launther vai compartilhar estratégias, experiências e decisões que podem ajudar você a construir uma presença mais forte e profissional na internet.
+              No dia 30 de julho, Junior Launther vai compartilhar estratégias, experiências e decisões que podem ajudar você a construir uma presença mais forte e profissional na internet.
             </p>
 
             <div className="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-12 text-left mb-10 md:mb-12 border border-white/10 bg-white/5 rounded-3xl p-8 backdrop-blur-md">
               <div className="space-y-1 w-full md:w-auto text-center md:text-right border-b border-white/10 md:border-b-0 md:border-r md:pr-12 pb-6 md:pb-0">
                  <p className="font-display text-2xl md:text-3xl font-medium text-shine mb-2 uppercase">O Segredo dos Influencers</p>
-                 <p className="text-zinc-400 uppercase tracking-widest text-sm">16 de Julho • 20H • Aula ao Vivo</p>
+                 <p className="text-zinc-400 uppercase tracking-widest text-sm">30 de Julho • 20H • Aula ao Vivo</p>
               </div>
               <div className="space-y-1 w-full md:w-auto text-center md:text-left pt-2 md:pt-0">
                  <p className="text-zinc-400 uppercase tracking-widest text-sm">Ingresso</p>
